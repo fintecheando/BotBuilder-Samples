@@ -222,19 +222,19 @@ Here is your receipt:</value>
     <value>That is not a valid option. Please try again.</value>
   </data>
   <data name="RootDialog_Welcome_Message" xml:space="preserve">
-    <value>Welcome to Contoso Flowers. You can now order flowers or talk to support without leaving this bot.</value>
+    <value>¡Te damos la mas cordial bienvenida a FinTecheando!</value>
   </data>
   <data name="RootDialog_Welcome_Orders" xml:space="preserve">
-    <value>Order flowers</value>
+    <value>Levantar Queja</value>
   </data>
   <data name="RootDialog_Welcome_Subtitle" xml:space="preserve">
-    <value>These are the flowers you are looking for!</value>
+    <value>El proceso es fácil y sencillo</value>
   </data>
   <data name="RootDialog_Welcome_Support" xml:space="preserve">
-    <value>Talk to support</value>
+    <value>Hablar con un Ejecutivo</value>
   </data>
   <data name="RootDialog_Welcome_Title" xml:space="preserve">
-    <value>Welcome to the Contoso Flowers</value>
+    <value>¡Yo te apoyaré levantando tu queja!</value>
   </data>
   <data name="SettingsDialog_Address_Entered" xml:space="preserve">
     <value>Thanks! Your {0} address was updated to {1}.</value>
